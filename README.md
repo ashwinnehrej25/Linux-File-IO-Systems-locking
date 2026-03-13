@@ -54,7 +54,8 @@ int main() {
 }
 
 ```
-
+## OUTPUT:
+![Alt text](<img/Screenshot at 2026-03-13 10-00-58.png>)
 
 ## 2.To Write a C program that illustrates files locking
 ```
@@ -108,7 +109,7 @@ int main() {
 ```
 ## OUTPUT
 
-
+![Alt text](<img/Screenshot at 2026-03-13 10-05-17.png>)
 
 
 
